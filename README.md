@@ -76,14 +76,15 @@ STORE: STA 8002H
 HLT
 ```
 ## output:
-# Experiment 2: Smallest and Largest of Two Numbers using 8085
+
+<img width="1906" height="940" alt="Screenshot 2025-08-22 133911" src="https://github.com/user-attachments/assets/c6c141a0-1427-460b-8ac3-f69a6577c825" />
+
 | Number 1 (8000H) | Number 2 (8001H) | Smallest (8002H) | Largest (8002H) |
 |-----------------|-----------------|-----------------|----------------|
 | 25              | 39              | 25              | 39             |
 | 45              | 12              | 12              | 45             |
 | 72              | 35              | 35              | 72             |
 | 50              | 50              | 50              | 50             |
-<img width="1906" height="940" alt="Screenshot 2025-08-22 133911" src="https://github.com/user-attachments/assets/c6c141a0-1427-460b-8ac3-f69a6577c825" />
 
 
 
